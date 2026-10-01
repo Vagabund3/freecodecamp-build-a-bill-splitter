@@ -1,6 +1,4 @@
-# Build a Bill Splitter
-
-Python project from freeCodeCamp.
+# Python project from freeCodeCamp.
 
 ## Status
 
